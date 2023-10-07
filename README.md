@@ -19,3 +19,12 @@ Here are some ideas to get you started:
 - 🤖 I'm currently working in @SCUT-RobotIC Lab.
 - ⚡ I’m interested in embedded system development.
 
+#### Platform&Tools
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,flask,md,latex,ros,arduino,qt" />
+</p>  
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,linux,docker,ps,au,pr,ableton" />
+</p> 
+
+<div align='center'>
