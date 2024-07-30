@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 👀 I'm an undergraduate in AI from South China University of Technology.
 - 🤖 I'm currently working in @SCUT-RobotIC Lab.
-- ⚡ I’m interested in embedded system development.
+- ⚡ I’m interested in deep learning and embedded system developing.
 
 #### Platform&Tools
 <p align="center">
